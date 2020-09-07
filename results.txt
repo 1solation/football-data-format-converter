@@ -1,0 +1,380 @@
+{'Div': 'E0', 'Date': '09/08/2019', 'Time': '20:00', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Norwich', 'FTHG': '4', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '10/08/2019', 'Time': '12:30', 'HomeTeam': 'West Ham', 'AwayTeam': 'Man City', 'FTHG': '0', 'FTAG': '5'}
+{'Div': 'E0', 'Date': '10/08/2019', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Sheffield United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '10/08/2019', 'Time': '15:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Southampton', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '10/08/2019', 'Time': '15:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Everton', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '10/08/2019', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Brighton', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '10/08/2019', 'Time': '17:30', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Aston Villa', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '11/08/2019', 'Time': '14:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Wolves', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '11/08/2019', 'Time': '14:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Arsenal', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '11/08/2019', 'Time': '16:30', 'HomeTeam': 'Man United', 'AwayTeam': 'Chelsea', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '17/08/2019', 'Time': '12:30', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Burnley', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '17/08/2019', 'Time': '15:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Bournemouth', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '17/08/2019', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'West Ham', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '17/08/2019', 'Time': '15:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Watford', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '17/08/2019', 'Time': '15:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Newcastle', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '17/08/2019', 'Time': '15:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Liverpool', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '17/08/2019', 'Time': '17:30', 'HomeTeam': 'Man City', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '18/08/2019', 'Time': '14:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Crystal Palace', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '18/08/2019', 'Time': '16:30', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Leicester', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '19/08/2019', 'Time': '20:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Man United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '23/08/2019', 'Time': '20:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Everton', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '24/08/2019', 'Time': '12:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'Chelsea', 'FTHG': '2', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '24/08/2019', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Southampton', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '24/08/2019', 'Time': '15:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Crystal Palace', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '24/08/2019', 'Time': '15:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Leicester', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '24/08/2019', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'West Ham', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '24/08/2019', 'Time': '17:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Arsenal', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '25/08/2019', 'Time': '14:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Man City', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '25/08/2019', 'Time': '16:30', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Newcastle', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '25/08/2019', 'Time': '16:30', 'HomeTeam': 'Wolves', 'AwayTeam': 'Burnley', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '31/08/2019', 'Time': '12:30', 'HomeTeam': 'Southampton', 'AwayTeam': 'Man United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '31/08/2019', 'Time': '15:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Sheffield United', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '31/08/2019', 'Time': '15:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Aston Villa', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '31/08/2019', 'Time': '15:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Bournemouth', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '31/08/2019', 'Time': '15:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Brighton', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '31/08/2019', 'Time': '15:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Watford', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '31/08/2019', 'Time': '15:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Norwich', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '31/08/2019', 'Time': '17:30', 'HomeTeam': 'Burnley', 'AwayTeam': 'Liverpool', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '01/09/2019', 'Time': '14:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Wolves', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '01/09/2019', 'Time': '16:30', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '14/09/2019', 'Time': '12:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Newcastle', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '14/09/2019', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Burnley', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '14/09/2019', 'Time': '15:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Leicester', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '14/09/2019', 'Time': '15:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Southampton', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '14/09/2019', 'Time': '15:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Crystal Palace', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '14/09/2019', 'Time': '15:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Chelsea', 'FTHG': '2', 'FTAG': '5'}
+{'Div': 'E0', 'Date': '14/09/2019', 'Time': '17:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'Man City', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '15/09/2019', 'Time': '14:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Everton', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '15/09/2019', 'Time': '16:30', 'HomeTeam': 'Watford', 'AwayTeam': 'Arsenal', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '16/09/2019', 'Time': '20:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'West Ham', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '20/09/2019', 'Time': '20:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Bournemouth', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '21/09/2019', 'Time': '12:30', 'HomeTeam': 'Leicester', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '21/09/2019', 'Time': '15:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Norwich', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '21/09/2019', 'Time': '15:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Sheffield United', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '21/09/2019', 'Time': '15:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Watford', 'FTHG': '8', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '21/09/2019', 'Time': '17:30', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Brighton', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/09/2019', 'Time': '14:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Wolves', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '22/09/2019', 'Time': '14:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Man United', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/09/2019', 'Time': '16:30', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Aston Villa', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '22/09/2019', 'Time': '16:30', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Liverpool', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '28/09/2019', 'Time': '12:30', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Liverpool', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '28/09/2019', 'Time': '15:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Burnley', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '28/09/2019', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'West Ham', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '28/09/2019', 'Time': '15:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Brighton', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '28/09/2019', 'Time': '15:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Norwich', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '28/09/2019', 'Time': '15:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Southampton', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '28/09/2019', 'Time': '15:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Watford', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '28/09/2019', 'Time': '17:30', 'HomeTeam': 'Everton', 'AwayTeam': 'Man City', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '29/09/2019', 'Time': '16:30', 'HomeTeam': 'Leicester', 'AwayTeam': 'Newcastle', 'FTHG': '5', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '30/09/2019', 'Time': '20:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Arsenal', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '05/10/2019', 'Time': '12:30', 'HomeTeam': 'Brighton', 'AwayTeam': 'Tottenham', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '05/10/2019', 'Time': '15:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Everton', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '05/10/2019', 'Time': '15:00', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Leicester', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '05/10/2019', 'Time': '15:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Aston Villa', 'FTHG': '1', 'FTAG': '5'}
+{'Div': 'E0', 'Date': '05/10/2019', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Sheffield United', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '05/10/2019', 'Time': '17:30', 'HomeTeam': 'West Ham', 'AwayTeam': 'Crystal Palace', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '06/10/2019', 'Time': '14:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Bournemouth', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '06/10/2019', 'Time': '14:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Wolves', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '06/10/2019', 'Time': '14:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Chelsea', 'FTHG': '1', 'FTAG': '4'}
+{'Div': 'E0', 'Date': '06/10/2019', 'Time': '16:30', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Man United', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '19/10/2019', 'Time': '12:30', 'HomeTeam': 'Everton', 'AwayTeam': 'West Ham', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '19/10/2019', 'Time': '15:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Brighton', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '19/10/2019', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Norwich', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '19/10/2019', 'Time': '15:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Newcastle', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '19/10/2019', 'Time': '15:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Burnley', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '19/10/2019', 'Time': '15:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Watford', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '19/10/2019', 'Time': '15:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Southampton', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '19/10/2019', 'Time': '17:30', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Man City', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '20/10/2019', 'Time': '16:30', 'HomeTeam': 'Man United', 'AwayTeam': 'Liverpool', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '21/10/2019', 'Time': '20:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Arsenal', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '25/10/2019', 'Time': '20:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Leicester', 'FTHG': '0', 'FTAG': '9'}
+{'Div': 'E0', 'Date': '26/10/2019', 'Time': '12:30', 'HomeTeam': 'Man City', 'AwayTeam': 'Aston Villa', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '26/10/2019', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Everton', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '26/10/2019', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Bournemouth', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '26/10/2019', 'Time': '15:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Sheffield United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '26/10/2019', 'Time': '17:30', 'HomeTeam': 'Burnley', 'AwayTeam': 'Chelsea', 'FTHG': '2', 'FTAG': '4'}
+{'Div': 'E0', 'Date': '27/10/2019', 'Time': '14:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Wolves', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '27/10/2019', 'Time': '16:30', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Crystal Palace', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '27/10/2019', 'Time': '16:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '27/10/2019', 'Time': '16:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'Man United', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '02/11/2019', 'Time': '12:30', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Man United', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '02/11/2019', 'Time': '15:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Wolves', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '02/11/2019', 'Time': '15:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Liverpool', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '02/11/2019', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Norwich', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '02/11/2019', 'Time': '15:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Southampton', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '02/11/2019', 'Time': '15:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Burnley', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '02/11/2019', 'Time': '15:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Newcastle', 'FTHG': '2', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '02/11/2019', 'Time': '17:30', 'HomeTeam': 'Watford', 'AwayTeam': 'Chelsea', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '03/11/2019', 'Time': '14:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Leicester', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '03/11/2019', 'Time': '16:30', 'HomeTeam': 'Everton', 'AwayTeam': 'Tottenham', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '08/11/2019', 'Time': '20:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Watford', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '09/11/2019', 'Time': '12:30', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Crystal Palace', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '09/11/2019', 'Time': '15:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'West Ham', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '09/11/2019', 'Time': '15:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Bournemouth', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '09/11/2019', 'Time': '15:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Everton', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '09/11/2019', 'Time': '15:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Sheffield United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '09/11/2019', 'Time': '17:30', 'HomeTeam': 'Leicester', 'AwayTeam': 'Arsenal', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '10/11/2019', 'Time': '14:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Brighton', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '10/11/2019', 'Time': '14:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Aston Villa', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '10/11/2019', 'Time': '16:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Man City', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '23/11/2019', 'Time': '12:30', 'HomeTeam': 'West Ham', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '23/11/2019', 'Time': '15:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Southampton', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '23/11/2019', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Wolves', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '23/11/2019', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Leicester', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '23/11/2019', 'Time': '15:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Liverpool', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '23/11/2019', 'Time': '15:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Norwich', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '23/11/2019', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Burnley', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '23/11/2019', 'Time': '17:30', 'HomeTeam': 'Man City', 'AwayTeam': 'Chelsea', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '24/11/2019', 'Time': '16:30', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Man United', 'FTHG': '3', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '25/11/2019', 'Time': '20:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Newcastle', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '30/11/2019', 'Time': '12:30', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Man City', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '30/11/2019', 'Time': '15:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Crystal Palace', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '30/11/2019', 'Time': '15:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'West Ham', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '30/11/2019', 'Time': '15:00', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Brighton', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '30/11/2019', 'Time': '15:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Bournemouth', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '30/11/2019', 'Time': '17:30', 'HomeTeam': 'Southampton', 'AwayTeam': 'Watford', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/12/2019', 'Time': '14:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Arsenal', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '01/12/2019', 'Time': '14:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Sheffield United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/12/2019', 'Time': '16:30', 'HomeTeam': 'Leicester', 'AwayTeam': 'Everton', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/12/2019', 'Time': '16:30', 'HomeTeam': 'Man United', 'AwayTeam': 'Aston Villa', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '03/12/2019', 'Time': '19:30', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Bournemouth', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '03/12/2019', 'Time': '20:15', 'HomeTeam': 'Burnley', 'AwayTeam': 'Man City', 'FTHG': '1', 'FTAG': '4'}
+{'Div': 'E0', 'Date': '04/12/2019', 'Time': '19:30', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Aston Villa', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '04/12/2019', 'Time': '19:30', 'HomeTeam': 'Leicester', 'AwayTeam': 'Watford', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '04/12/2019', 'Time': '19:30', 'HomeTeam': 'Man United', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '04/12/2019', 'Time': '19:30', 'HomeTeam': 'Southampton', 'AwayTeam': 'Norwich', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '04/12/2019', 'Time': '19:30', 'HomeTeam': 'Wolves', 'AwayTeam': 'West Ham', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '04/12/2019', 'Time': '20:15', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Everton', 'FTHG': '5', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '05/12/2019', 'Time': '19:30', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Newcastle', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '05/12/2019', 'Time': '20:15', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Brighton', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '07/12/2019', 'Time': '12:30', 'HomeTeam': 'Everton', 'AwayTeam': 'Chelsea', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '07/12/2019', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Liverpool', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '07/12/2019', 'Time': '15:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Burnley', 'FTHG': '5', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '07/12/2019', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Crystal Palace', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '07/12/2019', 'Time': '17:30', 'HomeTeam': 'Man City', 'AwayTeam': 'Man United', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '08/12/2019', 'Time': '14:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Leicester', 'FTHG': '1', 'FTAG': '4'}
+{'Div': 'E0', 'Date': '08/12/2019', 'Time': '14:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Southampton', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '08/12/2019', 'Time': '14:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Sheffield United', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '08/12/2019', 'Time': '16:30', 'HomeTeam': 'Brighton', 'AwayTeam': 'Wolves', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '09/12/2019', 'Time': '20:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Arsenal', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '14/12/2019', 'Time': '12:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Watford', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '14/12/2019', 'Time': '15:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Newcastle', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '14/12/2019', 'Time': '15:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Bournemouth', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '14/12/2019', 'Time': '15:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Norwich', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '14/12/2019', 'Time': '15:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Aston Villa', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '14/12/2019', 'Time': '17:30', 'HomeTeam': 'Southampton', 'AwayTeam': 'West Ham', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '15/12/2019', 'Time': '14:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Everton', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '15/12/2019', 'Time': '14:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Tottenham', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '15/12/2019', 'Time': '16:30', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Man City', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '16/12/2019', 'Time': '19:45', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Brighton', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '21/12/2019', 'Time': '12:30', 'HomeTeam': 'Everton', 'AwayTeam': 'Arsenal', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '21/12/2019', 'Time': '15:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Southampton', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '21/12/2019', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Burnley', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '21/12/2019', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Sheffield United', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '21/12/2019', 'Time': '15:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Crystal Palace', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '21/12/2019', 'Time': '15:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Wolves', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '21/12/2019', 'Time': '17:30', 'HomeTeam': 'Man City', 'AwayTeam': 'Leicester', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '22/12/2019', 'Time': '14:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Man United', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/12/2019', 'Time': '16:30', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Chelsea', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '12:30', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Brighton', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '15:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Norwich', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Arsenal', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '15:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Southampton', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '15:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'West Ham', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '15:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Burnley', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '15:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Watford', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '17:30', 'HomeTeam': 'Man United', 'AwayTeam': 'Newcastle', 'FTHG': '4', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '26/12/2019', 'Time': '20:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Liverpool', 'FTHG': '0', 'FTAG': '4'}
+{'Div': 'E0', 'Date': '27/12/2019', 'Time': '19:45', 'HomeTeam': 'Wolves', 'AwayTeam': 'Man City', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '28/12/2019', 'Time': '12:30', 'HomeTeam': 'Brighton', 'AwayTeam': 'Bournemouth', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '28/12/2019', 'Time': '15:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Everton', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '28/12/2019', 'Time': '15:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Crystal Palace', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '28/12/2019', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Aston Villa', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '28/12/2019', 'Time': '17:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '28/12/2019', 'Time': '17:30', 'HomeTeam': 'West Ham', 'AwayTeam': 'Leicester', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '28/12/2019', 'Time': '19:45', 'HomeTeam': 'Burnley', 'AwayTeam': 'Man United', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '29/12/2019', 'Time': '14:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Chelsea', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '29/12/2019', 'Time': '16:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Wolves', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '29/12/2019', 'Time': '18:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Sheffield United', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '12:30', 'HomeTeam': 'Brighton', 'AwayTeam': 'Chelsea', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '12:30', 'HomeTeam': 'Burnley', 'AwayTeam': 'Aston Villa', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '15:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Leicester', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '15:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Tottenham', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Wolves', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '17:30', 'HomeTeam': 'Man City', 'AwayTeam': 'Everton', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '17:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'Crystal Palace', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '17:30', 'HomeTeam': 'West Ham', 'AwayTeam': 'Bournemouth', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '01/01/2020', 'Time': '20:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Man United', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '02/01/2020', 'Time': '20:00', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Sheffield United', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '10/01/2020', 'Time': '20:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'West Ham', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '11/01/2020', 'Time': '12:30', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Arsenal', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '11/01/2020', 'Time': '15:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Burnley', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '11/01/2020', 'Time': '15:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Brighton', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '11/01/2020', 'Time': '15:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Southampton', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '11/01/2020', 'Time': '15:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Norwich', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '11/01/2020', 'Time': '15:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Newcastle', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '11/01/2020', 'Time': '17:30', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Liverpool', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '12/01/2020', 'Time': '14:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Watford', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '12/01/2020', 'Time': '16:30', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Man City', 'FTHG': '1', 'FTAG': '6'}
+{'Div': 'E0', 'Date': '18/01/2020', 'Time': '12:30', 'HomeTeam': 'Watford', 'AwayTeam': 'Tottenham', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '18/01/2020', 'Time': '15:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Sheffield United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '18/01/2020', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Aston Villa', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '18/01/2020', 'Time': '15:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Crystal Palace', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '18/01/2020', 'Time': '15:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Bournemouth', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '18/01/2020', 'Time': '15:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Wolves', 'FTHG': '2', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '18/01/2020', 'Time': '15:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Everton', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '18/01/2020', 'Time': '17:30', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Chelsea', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '19/01/2020', 'Time': '14:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Leicester', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '19/01/2020', 'Time': '16:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Man United', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '21/01/2020', 'Time': '19:30', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Watford', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '21/01/2020', 'Time': '19:30', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Brighton', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '21/01/2020', 'Time': '19:30', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Southampton', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '21/01/2020', 'Time': '19:30', 'HomeTeam': 'Everton', 'AwayTeam': 'Newcastle', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '21/01/2020', 'Time': '19:30', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Man City', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '21/01/2020', 'Time': '20:15', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Arsenal', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '22/01/2020', 'Time': '19:30', 'HomeTeam': 'Leicester', 'AwayTeam': 'West Ham', 'FTHG': '4', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '22/01/2020', 'Time': '19:30', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Norwich', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '22/01/2020', 'Time': '20:15', 'HomeTeam': 'Man United', 'AwayTeam': 'Burnley', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '23/01/2020', 'Time': '20:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Liverpool', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '29/01/2020', 'Time': '19:45', 'HomeTeam': 'West Ham', 'AwayTeam': 'Liverpool', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '01/02/2020', 'Time': '12:30', 'HomeTeam': 'Leicester', 'AwayTeam': 'Chelsea', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '01/02/2020', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Aston Villa', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/02/2020', 'Time': '15:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Sheffield United', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/02/2020', 'Time': '15:00', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Southampton', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '01/02/2020', 'Time': '15:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Norwich', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '01/02/2020', 'Time': '15:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Everton', 'FTHG': '2', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '01/02/2020', 'Time': '15:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Brighton', 'FTHG': '3', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '01/02/2020', 'Time': '17:30', 'HomeTeam': 'Man United', 'AwayTeam': 'Wolves', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '02/02/2020', 'Time': '14:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Arsenal', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '02/02/2020', 'Time': '16:30', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Man City', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '08/02/2020', 'Time': '12:30', 'HomeTeam': 'Everton', 'AwayTeam': 'Crystal Palace', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '08/02/2020', 'Time': '17:30', 'HomeTeam': 'Brighton', 'AwayTeam': 'Watford', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '09/02/2020', 'Time': '14:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Bournemouth', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '14/02/2020', 'Time': '20:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Leicester', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '15/02/2020', 'Time': '12:30', 'HomeTeam': 'Southampton', 'AwayTeam': 'Burnley', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '15/02/2020', 'Time': '17:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'Liverpool', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '16/02/2020', 'Time': '14:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '16/02/2020', 'Time': '16:30', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Newcastle', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '17/02/2020', 'Time': '20:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Man United', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '19/02/2020', 'Time': '19:30', 'HomeTeam': 'Man City', 'AwayTeam': 'West Ham', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/02/2020', 'Time': '12:30', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Tottenham', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '22/02/2020', 'Time': '15:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Bournemouth', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/02/2020', 'Time': '15:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Newcastle', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/02/2020', 'Time': '15:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Brighton', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '22/02/2020', 'Time': '15:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Aston Villa', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/02/2020', 'Time': '17:30', 'HomeTeam': 'Leicester', 'AwayTeam': 'Man City', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '23/02/2020', 'Time': '14:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Watford', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '23/02/2020', 'Time': '14:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Norwich', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '23/02/2020', 'Time': '16:30', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Everton', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '24/02/2020', 'Time': '20:00', 'HomeTeam': 'Liverpool', 'AwayTeam': 'West Ham', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '28/02/2020', 'Time': '20:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Leicester', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '29/02/2020', 'Time': '12:30', 'HomeTeam': 'Brighton', 'AwayTeam': 'Crystal Palace', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '29/02/2020', 'Time': '15:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Chelsea', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '29/02/2020', 'Time': '15:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Burnley', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '29/02/2020', 'Time': '15:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Southampton', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '29/02/2020', 'Time': '17:30', 'HomeTeam': 'Watford', 'AwayTeam': 'Liverpool', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '01/03/2020', 'Time': '14:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Man United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/03/2020', 'Time': '14:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Wolves', 'FTHG': '2', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '07/03/2020', 'Time': '12:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Bournemouth', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '07/03/2020', 'Time': '15:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'West Ham', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '07/03/2020', 'Time': '15:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Watford', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '07/03/2020', 'Time': '15:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Norwich', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '07/03/2020', 'Time': '15:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Newcastle', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '07/03/2020', 'Time': '15:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Brighton', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '07/03/2020', 'Time': '17:30', 'HomeTeam': 'Burnley', 'AwayTeam': 'Tottenham', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '08/03/2020', 'Time': '14:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Everton', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '08/03/2020', 'Time': '16:30', 'HomeTeam': 'Man United', 'AwayTeam': 'Man City', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '09/03/2020', 'Time': '20:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Aston Villa', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '17/06/2020', 'Time': '18:00', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Sheffield United', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '17/06/2020', 'Time': '20:15', 'HomeTeam': 'Man City', 'AwayTeam': 'Arsenal', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '19/06/2020', 'Time': '18:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Southampton', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '19/06/2020', 'Time': '20:15', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Man United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '20/06/2020', 'Time': '12:30', 'HomeTeam': 'Watford', 'AwayTeam': 'Leicester', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '20/06/2020', 'Time': '15:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Arsenal', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '20/06/2020', 'Time': '17:30', 'HomeTeam': 'West Ham', 'AwayTeam': 'Wolves', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '20/06/2020', 'Time': '19:45', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Crystal Palace', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '21/06/2020', 'Time': '14:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Sheffield United', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '21/06/2020', 'Time': '16:15', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Chelsea', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '21/06/2020', 'Time': '19:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Liverpool', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/06/2020', 'Time': '20:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Burnley', 'FTHG': '5', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '23/06/2020', 'Time': '18:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Brighton', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '23/06/2020', 'Time': '20:15', 'HomeTeam': 'Tottenham', 'AwayTeam': 'West Ham', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '24/06/2020', 'Time': '18:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Sheffield United', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '24/06/2020', 'Time': '18:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Aston Villa', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '24/06/2020', 'Time': '18:00', 'HomeTeam': 'Norwich', 'AwayTeam': 'Everton', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '24/06/2020', 'Time': '18:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Bournemouth', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '24/06/2020', 'Time': '20:15', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Crystal Palace', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '25/06/2020', 'Time': '18:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Watford', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '25/06/2020', 'Time': '18:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Arsenal', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '25/06/2020', 'Time': '20:15', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Man City', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '27/06/2020', 'Time': '12:30', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Wolves', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '28/06/2020', 'Time': '16:30', 'HomeTeam': 'Watford', 'AwayTeam': 'Southampton', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '29/06/2020', 'Time': '20:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Burnley', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '30/06/2020', 'Time': '20:15', 'HomeTeam': 'Brighton', 'AwayTeam': 'Man United', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '01/07/2020', 'Time': '18:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Norwich', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '01/07/2020', 'Time': '18:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Newcastle', 'FTHG': '1', 'FTAG': '4'}
+{'Div': 'E0', 'Date': '01/07/2020', 'Time': '18:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Leicester', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '01/07/2020', 'Time': '20:15', 'HomeTeam': 'West Ham', 'AwayTeam': 'Chelsea', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '02/07/2020', 'Time': '18:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Tottenham', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '02/07/2020', 'Time': '20:15', 'HomeTeam': 'Man City', 'AwayTeam': 'Liverpool', 'FTHG': '4', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '04/07/2020', 'Time': '12:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'Brighton', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '04/07/2020', 'Time': '15:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Crystal Palace', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '04/07/2020', 'Time': '15:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Bournemouth', 'FTHG': '5', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '04/07/2020', 'Time': '17:30', 'HomeTeam': 'Wolves', 'AwayTeam': 'Arsenal', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '04/07/2020', 'Time': '20:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Watford', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '05/07/2020', 'Time': '12:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Sheffield United', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '05/07/2020', 'Time': '14:15', 'HomeTeam': 'Newcastle', 'AwayTeam': 'West Ham', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '05/07/2020', 'Time': '16:30', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Aston Villa', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '05/07/2020', 'Time': '19:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Man City', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '06/07/2020', 'Time': '20:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Everton', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '07/07/2020', 'Time': '18:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Chelsea', 'FTHG': '2', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '07/07/2020', 'Time': '18:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Norwich', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '07/07/2020', 'Time': '20:15', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Leicester', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '08/07/2020', 'Time': '18:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Newcastle', 'FTHG': '5', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '08/07/2020', 'Time': '18:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Wolves', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '08/07/2020', 'Time': '18:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Burnley', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '08/07/2020', 'Time': '20:15', 'HomeTeam': 'Brighton', 'AwayTeam': 'Liverpool', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '09/07/2020', 'Time': '18:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Tottenham', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '09/07/2020', 'Time': '18:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Southampton', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '09/07/2020', 'Time': '20:15', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Man United', 'FTHG': '0', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '11/07/2020', 'Time': '12:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'West Ham', 'FTHG': '0', 'FTAG': '4'}
+{'Div': 'E0', 'Date': '11/07/2020', 'Time': '12:30', 'HomeTeam': 'Watford', 'AwayTeam': 'Newcastle', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '11/07/2020', 'Time': '15:00', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Burnley', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '11/07/2020', 'Time': '17:30', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Chelsea', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '11/07/2020', 'Time': '20:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Man City', 'FTHG': '0', 'FTAG': '5'}
+{'Div': 'E0', 'Date': '12/07/2020', 'Time': '12:00', 'HomeTeam': 'Wolves', 'AwayTeam': 'Everton', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '12/07/2020', 'Time': '14:15', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Crystal Palace', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '12/07/2020', 'Time': '16:30', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Arsenal', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '12/07/2020', 'Time': '19:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Leicester', 'FTHG': '4', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '13/07/2020', 'Time': '20:00', 'HomeTeam': 'Man United', 'AwayTeam': 'Southampton', 'FTHG': '2', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '14/07/2020', 'Time': '20:15', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Norwich', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '15/07/2020', 'Time': '18:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Wolves', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '15/07/2020', 'Time': '18:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Bournemouth', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '15/07/2020', 'Time': '18:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Tottenham', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '15/07/2020', 'Time': '20:15', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Liverpool', 'FTHG': '2', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '16/07/2020', 'Time': '18:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Aston Villa', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '16/07/2020', 'Time': '18:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Sheffield United', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '16/07/2020', 'Time': '20:15', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Man United', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '16/07/2020', 'Time': '20:15', 'HomeTeam': 'Southampton', 'AwayTeam': 'Brighton', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '17/07/2020', 'Time': '20:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Watford', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '18/07/2020', 'Time': '17:30', 'HomeTeam': 'Norwich', 'AwayTeam': 'Burnley', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '19/07/2020', 'Time': '14:00', 'HomeTeam': 'Bournemouth', 'AwayTeam': 'Southampton', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '19/07/2020', 'Time': '16:00', 'HomeTeam': 'Tottenham', 'AwayTeam': 'Leicester', 'FTHG': '3', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '20/07/2020', 'Time': '18:00', 'HomeTeam': 'Brighton', 'AwayTeam': 'Newcastle', 'FTHG': '0', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '20/07/2020', 'Time': '18:00', 'HomeTeam': 'Sheffield United', 'AwayTeam': 'Everton', 'FTHG': '0', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '20/07/2020', 'Time': '20:15', 'HomeTeam': 'Wolves', 'AwayTeam': 'Crystal Palace', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '21/07/2020', 'Time': '18:00', 'HomeTeam': 'Watford', 'AwayTeam': 'Man City', 'FTHG': '0', 'FTAG': '4'}
+{'Div': 'E0', 'Date': '21/07/2020', 'Time': '20:15', 'HomeTeam': 'Aston Villa', 'AwayTeam': 'Arsenal', 'FTHG': '1', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '22/07/2020', 'Time': '18:00', 'HomeTeam': 'Man United', 'AwayTeam': 'West Ham', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '22/07/2020', 'Time': '20:15', 'HomeTeam': 'Liverpool', 'AwayTeam': 'Chelsea', 'FTHG': '5', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Arsenal', 'AwayTeam': 'Watford', 'FTHG': '3', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Burnley', 'AwayTeam': 'Brighton', 'FTHG': '1', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Chelsea', 'AwayTeam': 'Wolves', 'FTHG': '2', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Crystal Palace', 'AwayTeam': 'Tottenham', 'FTHG': '1', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Everton', 'AwayTeam': 'Bournemouth', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Leicester', 'AwayTeam': 'Man United', 'FTHG': '0', 'FTAG': '2'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Man City', 'AwayTeam': 'Norwich', 'FTHG': '5', 'FTAG': '0'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Newcastle', 'AwayTeam': 'Liverpool', 'FTHG': '1', 'FTAG': '3'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'Southampton', 'AwayTeam': 'Sheffield United', 'FTHG': '3', 'FTAG': '1'}
+{'Div': 'E0', 'Date': '26/07/2020', 'Time': '16:00', 'HomeTeam': 'West Ham', 'AwayTeam': 'Aston Villa', 'FTHG': '1', 'FTAG': '1'}
